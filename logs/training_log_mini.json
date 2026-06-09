@@ -1,0 +1,79 @@
+[
+    {
+        "iteration": 0,
+        "train_loss": 10.78369140625,
+        "val_loss": 10.783175468444824,
+        "val_perplexity": 48202.94840734936,
+        "sample_text": "Once upon a time gene gene gene gene gene gene gene������ break break breakgpugpugpugpugpugpucedescedescedescedescedesLedLedLed spotscedescedescedescedescedescedescedescedescedescedes Aerial Aerial Aerial Aerial Aerial Aerial Aerial Aerial Aerial"
+    },
+    {
+        "iteration": 200,
+        "train_loss": 3.04317045211792,
+        "val_loss": 3.020789384841919,
+        "val_perplexity": 20.50747358527321,
+        "sample_text": "Once upon a time, there was a little girl named Tim. She loved to play with the park. He was very mom. He was very excited.\nOne day, \"I will help the bird.\nOne day, \"I will help the bird.\n"
+    },
+    {
+        "iteration": 400,
+        "train_loss": 2.5605969429016113,
+        "val_loss": 2.5842103958129883,
+        "val_perplexity": 13.252820474944095,
+        "sample_text": "Once upon a time, there was a little girl named Lily. She loved to play with her toys. One day, she saw a big tree. She saw a big tree.\nOne day, Lily saw a big tree. She saw a big, but she found"
+    },
+    {
+        "iteration": 600,
+        "train_loss": 2.305818557739258,
+        "val_loss": 2.332806348800659,
+        "val_perplexity": 10.306825532269691,
+        "sample_text": "Once upon a time, there was a little girl named Lily. Lily loved to play with her friends. One day, Lily found a big, red ball. She was very happy and wanted to play with her ball.\nOne day, Lily saw a big tree."
+    },
+    {
+        "iteration": 800,
+        "train_loss": 2.139340877532959,
+        "val_loss": 2.145904779434204,
+        "val_perplexity": 8.549773397954215,
+        "sample_text": "Once upon a time, there was a little girl named Lily. She loved to play with her toys. One day, Lily saw a big, red ball in her room. She wanted to play with her toys.\nLily went to the ball and saw a big"
+    },
+    {
+        "iteration": 1000,
+        "train_loss": 1.9604169130325317,
+        "val_loss": 2.0082623958587646,
+        "val_perplexity": 7.4503603165443675,
+        "sample_text": "Once upon a time, there was a little boy named Tim. Tim loved to play with his toys. One day, Tim found a big, red ball in his room. He wanted to play with it.\nTim went to his mom and dad and dad. They"
+    },
+    {
+        "iteration": 1200,
+        "train_loss": 1.925367832183838,
+        "val_loss": 1.910984992980957,
+        "val_perplexity": 6.759743820634585,
+        "sample_text": "Once upon a time, there was a little boy named Tim. Tim was a very curious boy who loved to play with his friends. One day, Tim's mom told him to play with his friends.\nTim's mom said, \"Tim, you can't play"
+    },
+    {
+        "iteration": 1400,
+        "train_loss": 1.801039457321167,
+        "val_loss": 1.8274627923965454,
+        "val_perplexity": 6.218090042017513,
+        "sample_text": "Once upon a time, there was a little boy named Tim. Tim had a big, red ball. He loved to play with his ball all day. One day, Tim found a big red ball. He wanted to play with it.\nTim went to the park"
+    },
+    {
+        "iteration": 1600,
+        "train_loss": 1.7068171501159668,
+        "val_loss": 1.7621716260910034,
+        "val_perplexity": 5.825073550637915,
+        "sample_text": "Once upon a time, there was a little boy named Tim. Tim loved to play with his toy cars. One day, Tim found a big, red ball. He wanted to play with it.\nTim went to the park with his mom. She saw the red"
+    },
+    {
+        "iteration": 1800,
+        "train_loss": 1.662339687347412,
+        "val_loss": 1.7166705131530762,
+        "val_perplexity": 5.5659657694800915,
+        "sample_text": "Once upon a time, there was a little girl named Lily. She had a big, red ball. She loved to play with it all day. One day, she went to the park to play with her mom.\nAt the park, Lily saw a big tree"
+    },
+    {
+        "iteration": 1999,
+        "train_loss": 1.5661876201629639,
+        "val_loss": 1.666455864906311,
+        "val_perplexity": 5.293374080275578,
+        "sample_text": "Once upon a time, there was a little girl named Lily. She loved to play outside with her friends. One day, she went outside to play. She saw a big, red ball. She wanted to play with the ball, but she was too small.\n"
+    }
+]

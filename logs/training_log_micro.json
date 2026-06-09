@@ -1,0 +1,79 @@
+[
+    {
+        "iteration": 0,
+        "train_loss": 10.663625717163086,
+        "val_loss": 10.657132148742676,
+        "val_perplexity": 42494.5940816225,
+        "sample_text": "Once upon a timeandelandelandelandel vampire Occ Sponge Sponge Sponge dropping dropping manag manag manag manag manag manag manag manag manag Halloween Halloween Halloween Halloween Halloween Halloween Halloween May May May May May May May May May May May May May May May May May May May May May May May"
+    },
+    {
+        "iteration": 200,
+        "train_loss": 3.273209571838379,
+        "val_loss": 3.351942777633667,
+        "val_perplexity": 28.558161942183997,
+        "sample_text": "Once upon a time, there was a little girl named Tim.\nThe girl named Tim was a big, \"I.\nThe day, \"I, \"I, \"I, \"I, \"I.\nThe little girl.\n<|endoftext|><|endoftext|><|endoftext|><|endoftext|>"
+    },
+    {
+        "iteration": 400,
+        "train_loss": 2.756033420562744,
+        "val_loss": 2.8185513019561768,
+        "val_perplexity": 16.7525636778978,
+        "sample_text": "Once upon a time, there was a little girl named Tim. Tim loved to play with his mom. One day, he saw a big, he saw a big, \"I want to play.\nOne day, the park, the park, the park. The"
+    },
+    {
+        "iteration": 600,
+        "train_loss": 2.5136449337005615,
+        "val_loss": 2.571018934249878,
+        "val_perplexity": 13.079144441910488,
+        "sample_text": "Once upon a time, there was a little girl named Lily. She loved to play with her mom. She loved to play with her mom. She liked to play with her mom.\nOne day, Lily saw a big, Lily. She wanted to play with her"
+    },
+    {
+        "iteration": 800,
+        "train_loss": 2.3895397186279297,
+        "val_loss": 2.4094510078430176,
+        "val_perplexity": 11.12785036525909,
+        "sample_text": "Once upon a time, there was a little girl named Lily. She loved to play with her mom. One day, she saw a big tree in the tree. She wanted to play with her mom, but she wanted to play with her mom.\n\"Look,"
+    },
+    {
+        "iteration": 1000,
+        "train_loss": 2.3100435733795166,
+        "val_loss": 2.2890686988830566,
+        "val_perplexity": 9.865745421726093,
+        "sample_text": "Once upon a time, there was a little boy named Tim. Tim loved to play with his friends. One day, Tim saw a big, big, big, big, big, big, big, big tree. The cat was very happy.\nTim saw a"
+    },
+    {
+        "iteration": 1200,
+        "train_loss": 2.1782572269439697,
+        "val_loss": 2.190319776535034,
+        "val_perplexity": 8.938070843081247,
+        "sample_text": "Once upon a time, there was a little girl named Lily. She loved to play with her friends. One day, she saw a big, big, big, big, big, big, big tree. The tree was very happy.\nLily and her friends"
+    },
+    {
+        "iteration": 1400,
+        "train_loss": 2.0694665908813477,
+        "val_loss": 2.1153621673583984,
+        "val_perplexity": 8.292588527216564,
+        "sample_text": "Once upon a time, there was a little boy named Tim. Tim loved to play with his ball. One day, Tim saw a big tree with a big tree. He wanted to play with it.\nTim went to the park with his ball and saw a big"
+    },
+    {
+        "iteration": 1600,
+        "train_loss": 1.9989144802093506,
+        "val_loss": 2.0455331802368164,
+        "val_perplexity": 7.733280671311893,
+        "sample_text": "Once upon a time, there was a little girl named Lily. She had a big, red ball. She loved to play with her friends. One day, she saw a big, shiny ball. It was a big, red ball. Lily wanted to play with it"
+    },
+    {
+        "iteration": 1800,
+        "train_loss": 1.9520423412322998,
+        "val_loss": 1.9881694316864014,
+        "val_perplexity": 7.302154427636434,
+        "sample_text": "Once upon a time, there was a little boy named Tim. Tim loved to play with his toys. One day, Tim saw a big, red ball. He wanted to play with it.\nTim asked his mom, \"Can I play with me?\" His mom"
+    },
+    {
+        "iteration": 1999,
+        "train_loss": 1.90773344039917,
+        "val_loss": 1.9413772821426392,
+        "val_perplexity": 6.9683417371638745,
+        "sample_text": "Once upon a time, there was a little girl named Lily. She loved to play with her toys and play with her toys. One day, Lily's mom said, \"Let's play with your toys!\"\nLily and her mom went to the park. They"
+    }
+]

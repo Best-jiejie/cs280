@@ -1,0 +1,79 @@
+[
+    {
+        "iteration": 0,
+        "train_loss": 12.003265380859375,
+        "val_loss": 12.000541687011719,
+        "val_perplexity": 162842.97745807024,
+        "sample_text": "Once upon a timeoperoperoperoperoperoperoperoperoperoperoperoperoper༻༻༻༻༻༻༻༻༻༻༻༻༻༻༻༻༻༻༻༻༻༻༻༻༻༻༻༻༻吃亏吃亏吃亏吃亏吃亏吃亏吃亏吃亏"
+    },
+    {
+        "iteration": 200,
+        "train_loss": 5.823634147644043,
+        "val_loss": 5.778677940368652,
+        "val_perplexity": 323.3314442765695,
+        "sample_text": "黛玉笑道：，：“：“：“：“：“：“：“：“：“：“：“：“：“：“：“：“：“：“：“：“：“：“：“：“：“：“：“：“：“：“：“：“：“：“：“：“：“：“：“：“：“：“：“：“：“：“：“：“：“"
+    },
+    {
+        "iteration": 400,
+        "train_loss": 5.105423450469971,
+        "val_loss": 5.0362982749938965,
+        "val_perplexity": 153.89926653728858,
+        "sample_text": "黛玉笑道：我我我，我我我，我我我，我我我，我我我，我我我，我我我，我我我，我我我，我我我，我我我，我我我，我我"
+    },
+    {
+        "iteration": 600,
+        "train_loss": 4.755459785461426,
+        "val_loss": 4.65433931350708,
+        "val_perplexity": 105.03979869235003,
+        "sample_text": "Once upon a time, there was a little girl named Sue. Tom loved to play with his friends. One day, Tom went to the park with his mom. He saw a big, a big, red ball. He wanted to play with his mom.\nTim wanted"
+    },
+    {
+        "iteration": 800,
+        "train_loss": 4.505976676940918,
+        "val_loss": 4.430612087249756,
+        "val_perplexity": 83.98280598610819,
+        "sample_text": "Once upon a time, there was a little boy named Tim. Tim loved to play with his friends. One day, Tim saw a big tree. He wanted to play with his toy dog.\nTim saw a big, red ball. Tim was very happy. He wanted"
+    },
+    {
+        "iteration": 1000,
+        "train_loss": 4.3190598487854,
+        "val_loss": 4.221277236938477,
+        "val_perplexity": 68.12043468491542,
+        "sample_text": "Once upon a time, there was a little girl named Lily. She loved to play with her mom. She had a big, red ball. She was very happy.\nOne day, Lily went to the tree. She saw a big tree. She wanted to help her"
+    },
+    {
+        "iteration": 1200,
+        "train_loss": 4.022689342498779,
+        "val_loss": 4.06776762008667,
+        "val_perplexity": 58.426387006201104,
+        "sample_text": "Once upon a time, there was a little girl named Lily. Lily loved to play with her toys and play. One day, she saw a big, red ball. The ball was very happy and wanted to play with it.\nLily went to the park and saw"
+    },
+    {
+        "iteration": 1400,
+        "train_loss": 3.9273743629455566,
+        "val_loss": 3.9233157634735107,
+        "val_perplexity": 50.567838096871235,
+        "sample_text": "Once upon a time, there was a little girl named Lily. She had a big box that she loved to play. One day, she went to the park with her mom. Lily saw a big box and wanted to play too. She asked her mom, \"Can"
+    },
+    {
+        "iteration": 1600,
+        "train_loss": 3.766275644302368,
+        "val_loss": 3.7745816707611084,
+        "val_perplexity": 43.579274017488174,
+        "sample_text": "Once upon a time, there was a little boy named Tim. Tim loved to play with his friends. One day, he saw a big, red ball. The ball was very happy.\nTim wanted to play with the ball. He wanted to play with the ball,"
+    },
+    {
+        "iteration": 1800,
+        "train_loss": 3.6591405868530273,
+        "val_loss": 3.611818790435791,
+        "val_perplexity": 37.03334749704236,
+        "sample_text": "黛玉笑道：‘宝玉又和了他，叫他来瞧瞧，叫他来瞧瞧，他便叫他来。宝玉又叫他，叫他来，叫他来，叫他来，叫他来，说：“你快"
+    },
+    {
+        "iteration": 1999,
+        "train_loss": 3.666300058364868,
+        "val_loss": 3.518873691558838,
+        "val_perplexity": 33.74639819781605,
+        "sample_text": "Once upon a time, there was a little girl named Lily. She loved to play with her toys. One day, Lily's mom told her to make a big cake. Lily was very excited to play with her toys.\nLily's mom said, \"Lily"
+    }
+]
