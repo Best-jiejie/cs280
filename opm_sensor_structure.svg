@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="400" viewBox="0 0 900 400">
+  <defs>
+    <linearGradient id="laserGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff9999;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ff0000;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#ffffff" />
+
+  <!-- Laser Beam -->
+  <rect x="110" y="195" width="600" height="10" fill="url(#laserGrad)" opacity="0.6" />
+  <path d="M 130 200 L 710 200" fill="none" stroke="#ff0000" stroke-width="1" stroke-dasharray="5,5" />
+
+  <!-- Pump Laser -->
+  <rect x="30" y="170" width="80" height="60" rx="5" ry="5" fill="#f0f0f0" stroke="#333333" stroke-width="2"/>
+  <text x="70" y="200" font-family="Arial" font-size="14" text-anchor="middle" font-weight="bold">Pump</text>
+  <text x="70" y="218" font-family="Arial" font-size="14" text-anchor="middle" font-weight="bold">Laser</text>
+
+  <!-- Linear Polarizer -->
+  <rect x="180" y="140" width="15" height="120" fill="#cceeff" stroke="#006699" stroke-width="2"/>
+  <text x="187.5" y="125" font-family="Arial" font-size="14" text-anchor="middle">LP</text>
+
+  <!-- Quarter Waveplate -->
+  <rect x="260" y="140" width="15" height="120" fill="#e6ccff" stroke="#660099" stroke-width="2"/>
+  <text x="267.5" y="125" font-family="Arial" font-size="14" text-anchor="middle">λ/4 Plate</text>
+  
+  <text x="227.5" y="180" font-family="Arial" font-size="12" fill="#555555" text-anchor="middle">Circularly</text>
+  <text x="227.5" y="235" font-family="Arial" font-size="12" fill="#555555" text-anchor="middle">Polarized</text>
+
+  <!-- Vapor Cell Area -->
+  <g id="VaporCell">
+    <!-- Cell Body -->
+    <rect x="400" y="120" width="140" height="160" rx="15" ry="15" fill="#e6f7ff" stroke="#003366" stroke-width="3" opacity="0.8"/>
+    <!-- Atoms scattered -->
+    <circle cx="430" cy="150" r="3" fill="#ff6600" />
+    <circle cx="470" cy="180" r="3" fill="#ff6600" />
+    <circle cx="510" cy="140" r="3" fill="#ff6600" />
+    <circle cx="450" cy="220" r="3" fill="#ff6600" />
+    <circle cx="490" cy="250" r="3" fill="#ff6600" />
+    <circle cx="420" cy="260" r="3" fill="#ff6600" />
+    <circle cx="515" cy="210" r="3" fill="#ff6600" />
+    <text x="470" y="110" font-family="Arial" font-size="16" text-anchor="middle" font-weight="bold">Alkali Vapor Cell (e.g., Rb/K)</text>
+  </g>
+
+  <!-- Coils (Helmholtz) -->
+  <ellipse cx="470" cy="130" rx="80" ry="15" fill="none" stroke="#cc6600" stroke-width="5" />
+  <ellipse cx="470" cy="270" rx="80" ry="15" fill="none" stroke="#cc6600" stroke-width="5" />
+  <text x="470" y="315" font-family="Arial" font-size="14" text-anchor="middle" font-weight="bold" fill="#cc6600">Magnetic Field Coils</text>
+
+  <!-- External B Field Vector -->
+  <path d="M 470 40 L 470 85" fill="none" stroke="#009933" stroke-width="3" />
+  <polygon points="465,85 475,85 470,95" fill="#009933" />
+  <text x="485" y="75" font-family="Arial" font-size="20" font-style="italic" fill="#009933" font-weight="bold">B<tspan baseline-shift="sub" font-size="14">0</tspan></text>
+
+  <!-- Photodetector -->
+  <rect x="710" y="170" width="60" height="60" rx="5" ry="5" fill="#f0f0f0" stroke="#333333" stroke-width="2"/>
+  <text x="740" y="200" font-family="Arial" font-size="14" text-anchor="middle" font-weight="bold">Photo-</text>
+  <text x="740" y="218" font-family="Arial" font-size="14" text-anchor="middle" font-weight="bold">detector</text>
+
+  <!-- Signal Wire -->
+  <path d="M 770 200 L 820 200" fill="none" stroke="#000000" stroke-width="2" />
+  
+  <!-- DAQ -->
+  <rect x="820" y="160" width="70" height="80" rx="5" ry="5" fill="#fff2cc" stroke="#d6b656" stroke-width="2"/>
+  <text x="855" y="195" font-family="Arial" font-size="14" text-anchor="middle" font-weight="bold">Lock-In</text>
+  <text x="855" y="215" font-family="Arial" font-size="14" text-anchor="middle" font-weight="bold">Amp</text>
+
+</svg>
